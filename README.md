@@ -1,4 +1,4 @@
-# Hey, there 🙌
+# Hello World 🙌
 My name is Sitiporrn. I'm a freshman computer science student at SIT, KMUTT.
 
 
