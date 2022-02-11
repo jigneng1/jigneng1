@@ -4,7 +4,7 @@ My name is Sitiporrn. I'm a freshman computer science student at SIT, KMUTT.
 
 [![jigneng1's github stats](https://github-readme-stats.vercel.app/api?username=jigneng1&show_icons=true&theme=dracula)](https://github.com/jigneng1/)
 
-!--START_SECTIONwaka--
+<!--!--START_SECTIONwaka--
 ![Profile Views](httpimg.shields.iobadgeProfile%20Views-13-blue)
 
 🐱 My GitHub Data 
@@ -30,4 +30,4 @@ I'm an Early 🐤
 ```
 
  Last Updated on 08022022 200946 UTC
-!--END_SECTIONwaka--
+!--END_SECTIONwaka-- 
