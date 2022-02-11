@@ -1,18 +1,35 @@
+# Hey, there 🙌
+My name is Sitiporrn. I'm a freshman computer science student at SIT, KMUTT.
 
-<!--
-**jigneng1/jigneng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Github Stat](httpsgithub-profile-summary-cards.vercel.appapicardsprofile-detailsusername=jigneng1&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![jigneng1's github stats](https://github-readme-stats.vercel.app/api?username=jigneng1&show_icons=true&theme=dracula)](https://github.com/jigneng1/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](httpsgithub-readme-stats.vercel.appapiusername=jigengn1&count_private=true&show_icons=true&theme=tokyonight)](httpsgithub.comanuraghazragithub-readme-stats)
 
+!--START_SECTIONwaka--
+![Profile Views](httpimg.shields.iobadgeProfile%20Views-13-blue)
+
+🐱 My GitHub Data 
+
+ 🏆 90 Contributions in the Year 2022
+  
+ 📦 532.7 kB Used in GitHub's Storage 
+  
+ 🚫 Not Opted to Hire
+  
+ 📜 85 Public Repositories 
+  
+ 🔑 27 Private Repositories  
+  
+I'm an Early 🐤 
+
+```text
+🌞 Morning    380 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
+🌆 Daytime    856 commits    ██████████░░░░░░░░░░░░░░░   40.82% 
+🌃 Evening    846 commits    ██████████░░░░░░░░░░░░░░░   40.34% 
+🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+
+```
+
+ Last Updated on 08022022 200946 UTC
+!--END_SECTIONwaka--
