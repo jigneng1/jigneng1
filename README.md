@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigneng1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigneng1&count_private=true&show_icons=true)
+&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 </p>
