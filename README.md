@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigneng1&count_private=true&show_icons=true&theme=dracula)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&layout=compact&langs_count=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 </p>
