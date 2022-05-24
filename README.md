@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigneng1&theme=onedark" alt="jigneng1" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **react,java,Web app developer**
 
