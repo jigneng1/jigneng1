@@ -37,16 +37,6 @@
 
 ## Coding stats
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   2 hrs 20 mins   ███████████████░░░░░░░░░░   60.14 %
-Java         1 hr 22 mins    ████████▓░░░░░░░░░░░░░░░░   35.08 %
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
-
 <!--END_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigneng1&show_icons=true&locale=en&theme=dracula" alt="jigneng1" /></p>
