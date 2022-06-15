@@ -36,8 +36,10 @@
 ---
 
 ## Coding stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigneng1&show_icons=true&locale=en&theme=dracula" alt="jigneng1" /></p>
 
