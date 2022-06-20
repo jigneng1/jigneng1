@@ -1,6 +1,6 @@
 <h1 align="center">Hello my name is neng 🌈</h1>
 
-<h3 align="center">My name is Sitiporn or you can call me "Neng" . I'm a sophomor computer science student at SIT, KMUTT.</h3>
+<h3 align="center">My name is Sitiporn or you can call me "Neng" . I'm a sophomore computer science student at SIT, KMUTT.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigneng1&label=Profile%20views&color=0e75b6&style=flat" alt="jigneng1" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigneng1&theme=onedark" alt="jigneng1" /></a> </p>
