@@ -47,7 +47,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,23 +88,16 @@ Sunday                   454 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               42 mins             █████████████████████████   99.32 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-csc105-QUIZ_3-code       28 mins             ████████████████░░░░░░░░░   65.28 % 
-65130500214              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Quiz105                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-MiniQuiz-105             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Quiz                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,6 +113,6 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2023 20:17:27 UTC
+ Last Updated on 14/04/2023 20:17:11 UTC
 <!--END_SECTION:waka-->
 
