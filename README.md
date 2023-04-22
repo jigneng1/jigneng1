@@ -88,16 +88,17 @@ Sunday                   454 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     4 mins              ███████████████████████░░   93.35 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tungtee                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,6 +114,6 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2023 20:17:06 UTC
+ Last Updated on 22/04/2023 20:16:42 UTC
 <!--END_SECTION:waka-->
 
