@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigneng1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" alt="jigneng1" /></p>
 
-## Coding stats
+<!--## Coding stats
 
 <!--START_SECTION:waka-->
 <!--![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2058%20mins-blue)
