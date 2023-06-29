@@ -20,15 +20,20 @@
 </p>
 
 <h2>My skill </h2> 
-<h4>Web Dev </h4>
+<h4>Development </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,redux,tailwind,jquery,materialui)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,nextjs,vue,redux,tailwind,jquery,materialui,vite)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)  
 
 <h4>Program languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cs,cpp,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cs,cpp,dotnet,go,dart)](https://skillicons.dev)
+
+<h4>Infrastructure</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,bash,cloudflare,gcp,azure,nginx,linux)](https://skillicons.dev)
+
 
 <h4>Utities</h4>
 
