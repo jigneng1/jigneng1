@@ -23,7 +23,7 @@
 <h4>Development </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,nextjs,vue,redux,tailwind,jquery,materialui,vite)](https://skillicons.dev)   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,firebase)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)  
 
 <h4>Program languages</h4>
