@@ -32,7 +32,7 @@
 
 <h4>Infrastructure</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,bash,cloudflare,gcp,azure,nginx,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,bash,cloudflare,gcp,azure,nginx,linux)](https://skillicons.dev)
 
 
 <h4>Utities</h4>
