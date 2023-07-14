@@ -28,7 +28,7 @@
 
 <h4>Program languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,cs,cpp,dotnet,go,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,go,dart)](https://skillicons.dev)
 
 <h4>Infrastructure</h4>
 
