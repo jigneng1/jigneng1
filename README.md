@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web app developer,Algorithm**
 
-- 💬 Interesting in **Programing,Algorithm,Marketing**
+- 💬 Interesting in **CSS Animation,Data science,Network & CTF**
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nengzana)
