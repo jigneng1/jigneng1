@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigneng1&theme=onedark" alt="jigneng1" /></a> </p>
 
 
-- 🌱 I’m currently learning **Web app developer,Algorithm**
+- 🌱 I’m currently learning **DevSecOps,Data Science**
 
 - 💬 Interesting in **CSS Animation,Data science,Network & CTF**
 
