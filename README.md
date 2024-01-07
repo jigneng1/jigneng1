@@ -6,9 +6,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigneng1&theme=onedark" alt="jigneng1" /></a> </p>
 
 
-- 🌱 I’m currently learning **DevSecOps,Data Science**
+- 🌱 I’m currently learning **DevSecOps,Machine Learning**
 
-- 💬 Interesting in **CSS Animation,Data science,Network & CTF**
+- 💬 Interesting in **CSS Animation, Software Engineer, Network**
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nengzana)
