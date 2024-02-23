@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/jigneng1/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="neng sitiporn". height="30" width="40" /></a>
 </p>
 
-<h2>My skill </h2> 
+<!--- <h2>My skill </h2> 
 <h4>Development </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,nextjs,vue,angular,redux,tailwind,jquery,materialui,vite)](https://skillicons.dev)   
@@ -40,7 +40,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,ai,pr,ps,ae,vscode,ableton)](https://skillicons.dev)
 
----
+--
+
+-->
 
 
 
