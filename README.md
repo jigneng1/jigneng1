@@ -13,12 +13,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nengzana)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jigneng1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neng sitiporn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/n.neng_/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="neng sitiporn". height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jigneng1/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="neng sitiporn". height="30" width="40" /></a>
-</p>
 
 <!--- <h2>My skill </h2> 
 <h4>Development </h4>
