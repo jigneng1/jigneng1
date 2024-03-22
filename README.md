@@ -51,7 +51,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigneng1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" alt="jigneng1" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jigneng1)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jigneng1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--## Coding stats
 
