@@ -4,9 +4,6 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '00 00 * * *'
-  push:
-    branches:
-      - 'main'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -20,4 +17,5 @@ jobs:
           SHOW_SHORT_INFO : "False"
           SHOW_LOC_CHART : "False"
           SHOW_DAYS_OF_WEEK : "False"
+          SHOW_PROFILE_VIEWS : "False"
           
