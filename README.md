@@ -38,12 +38,14 @@
 
 -->
 
+<!--
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneng1&&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme -stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigneng1&show_icons=true&locale=en&theme=dracula" alt="jigneng1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigneng1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" alt="jigneng1" /></p>
+
+-->
 
 ## Coding stats
 
