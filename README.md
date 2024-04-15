@@ -47,14 +47,8 @@
 
 ## Coding stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jigneng1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--## Coding stats
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jigneng1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-<!--![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
 <!--END_SECTION:waka-->
 
