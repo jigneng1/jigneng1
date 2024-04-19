@@ -4,7 +4,6 @@ on:
   schedule:
   # Runs at 00:00, only on Sunday.
     - cron: '01 00 * * 0'
-  push :
   workflow_dispatch:
 jobs:
   update-readme:
