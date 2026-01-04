@@ -5,10 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigneng1&theme=onedark" alt="jigneng1" /></a> </p>
 
+- 🎓 I'm a recent Computer Science grad with software engineering experience.
 
-- 🌱 I’m currently learning **DevSecOps,Machine Learning**
-
-- 💬 Interesting in **CSS Animation, Software Engineer, Network**
+- 💬 Interesting in **Mobile Development, System Design, Software Solution**
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nengzana)
